@@ -13,7 +13,7 @@ A sleek and responsive weather application that provides real-time weather updat
 - **Weather API** (for real-time weather data)  
 
 ## 📷 Preview  
-![Weather App Preview]("C:\Users\sethu\OneDrive\Pictures\Screenshots\Screenshot 2025-02-07 121836.png")  
+![Weather App Preview]("assets/overview.png")  
 
 ## ⚙️ Installation & Usage  
 1. Clone this repository:  
