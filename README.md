@@ -8,7 +8,7 @@ A sleek and responsive weather application that provides real-time weather updat
 - Displays temperature, humidity, wind speed, and weather conditions.  
 - Clean and user-friendly UI with responsive design.  
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 - **HTML, CSS, JavaScript** (Frontend)  
 - **Weather API** (for real-time weather data)  
 
