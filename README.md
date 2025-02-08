@@ -2,11 +2,11 @@
 
 A sleek and responsive weather application that provides real-time weather updates, including temperature, humidity, and forecasts for any location.  
 
-## 🚀 Features  
-- 🌍 Fetches real-time weather data using OpenWeather API (or any chosen API).  
-- 📍 Search for weather details by city name.  
-- 🌞 Displays temperature, humidity, wind speed, and weather conditions.  
-- 🎨 Clean and user-friendly UI with responsive design.  
+##  Features  
+- Fetches real-time weather data using OpenWeather API (or any chosen API).  
+- Search for weather details by city name.  
+- Displays temperature, humidity, wind speed, and weather conditions.  
+- Clean and user-friendly UI with responsive design.  
 
 ## 🛠️ Technologies Used  
 - **HTML, CSS, JavaScript** (Frontend)  
